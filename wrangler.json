@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "oop-database",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7ed4d2ed-2ec8-4a50-baa1-82b0481f7c55",
+      "database_name": "oop"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
